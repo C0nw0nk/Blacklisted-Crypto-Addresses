@@ -2,3 +2,4 @@ WBNB
 WETH
 WBTC
 WAVX
+Apple
