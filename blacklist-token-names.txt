@@ -8,3 +8,7 @@ Twitter
 Meta
 Bloomberg
 Facebook
+XML
+Amazon
+Bing
+Yahoo
