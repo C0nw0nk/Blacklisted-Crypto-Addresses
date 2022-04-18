@@ -3,3 +3,8 @@ WETH
 WBTC
 WAVX
 Apple
+Google
+Twitter
+Meta
+Bloomberg
+Facebook
