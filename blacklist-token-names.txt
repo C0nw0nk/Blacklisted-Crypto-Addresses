@@ -1,0 +1,4 @@
+WBNB
+WETH
+WBTC
+WAVX
